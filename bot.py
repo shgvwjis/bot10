@@ -1693,7 +1693,7 @@ class BotHandlers:
 
         await update.message.reply_text(
             f"👋 <b>Telegram 验证码拦截系统</b>\n"
-            f"作者 @APl520\n\n"
+            f"作者 @apl520 客服 @apicc9\n\n"
             f"请选择操作：{status_text}",
             parse_mode='HTML',
             reply_markup=Keyboards.main()
