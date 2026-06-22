@@ -57,7 +57,7 @@ class Config:
     """配置类 - 所有配置项集中管理"""
 
     # ---------- Telegram Bot 配置 ----------
-    BOT_TOKEN: str = "8882243428:AAHE7rkCfD5lrNw8kBFewSuYuDuu7lfohMU"
+    BOT_TOKEN: str = "8882243428:AAGnIAwBxt4FYDFIQjPlLDviodp31xF7ozc"
     API_ID: int = 33059943
     API_HASH: str = "1c73a0510ba0b8cb3bd16f24acfd62bf"
 
